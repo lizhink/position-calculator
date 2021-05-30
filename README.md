@@ -1,10 +1,10 @@
 # 等比抄底网格计算器（electron）
-用于计算每个抄底仓位的买入价格、数量。
+用于计算每个抄底仓位的买入价格、数量。已经用electron封装成应用，不需要代码来启动后台。
 
 ## 使用
 1. clone项目
 ```
-https://github.com/lizhink/position-calculator.git
+git clone https://github.com/lizhink/position-calculator.git
 ```
 
 2. 安装包依赖
